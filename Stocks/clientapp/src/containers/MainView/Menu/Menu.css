@@ -1,0 +1,13 @@
+.h-fit-content {
+  height: fit-content !important;
+}
+
+.w-fit-content {
+  width: fit-content !important;
+}
+
+.border {
+  border: solid 1px;
+  border-color: lightslategray;
+  border-radius: 5px;
+}

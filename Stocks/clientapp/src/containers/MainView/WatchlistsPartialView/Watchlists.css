@@ -1,0 +1,27 @@
+.watchlist-width {
+  width: 200px !important;
+}
+
+.stock-button-width {
+  width: 250px !important;
+}
+
+.wm-stock-container {
+  min-width: 400px !important;
+  width: 400px !important;
+  height: 10px !important;
+  max-height: 100%;
+  overflow-y: auto;
+}
+
+.watchlist-edit-button {
+  width: fit-content;
+  height: fit-content;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+}
+
+.watchlist-div {
+  max-height: 400px;
+  overflow-y: auto;
+}

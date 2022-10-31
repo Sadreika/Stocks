@@ -1,0 +1,13 @@
+.border {
+  border: solid 1px;
+  border-color: lightslategray;
+  border-radius: 5px;
+}
+
+.partial-view-container-height {
+  height: fit-content;
+}
+
+.partial-view-container-width {
+  max-width: none !important;
+}
