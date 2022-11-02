@@ -9,6 +9,5 @@ namespace Services.Interfaces
         MethodResult<List<StockDto>> GetStocksByWatchlistId(string stringToken, int watchlistId);
         Task<MethodResult<List<StockDto>>> GetAllStocks();
         Task<MethodResult<StockDto>> CreateStockAsync(string data);
-        List<string> GetWhitelistedStocks();
     }
 }
